@@ -8,6 +8,9 @@
 [submodule "GNRS"]
 	path = GNRS
 	url = https://github.com/cran/GNRS
+[submodule "GVS"]
+	path = GVS
+	url = https://github.com/cran/GVS
 [submodule "NSR"]
 	path = NSR
 	url = https://github.com/cran/NSR
