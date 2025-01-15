@@ -14,6 +14,9 @@
 [submodule "NSR"]
 	path = NSR
 	url = https://github.com/cran/NSR
+[submodule "OpenRange"]
+	path = OpenRange
+	url = https://github.com/cran/OpenRange
 [submodule "S4DM"]
 	path = S4DM
 	url = https://github.com/bmaitner/s4dm
