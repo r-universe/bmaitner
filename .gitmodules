@@ -11,9 +11,6 @@
 [submodule "GVS"]
 	path = GVS
 	url = https://github.com/cran/GVS
-[submodule "NSR"]
-	path = NSR
-	url = https://github.com/cran/NSR
 [submodule "OpenRange"]
 	path = OpenRange
 	url = https://github.com/cran/OpenRange
