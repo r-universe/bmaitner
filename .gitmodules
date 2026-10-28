@@ -23,3 +23,9 @@
 [submodule "TNRS"]
 	path = TNRS
 	url = https://github.com/cran/TNRS
+[submodule "glyospalettes"]
+	path = glyospalettes
+	url = https://github.com/bmaitner/glyospalettes
+[submodule "transformerpalettes"]
+	path = transformerpalettes
+	url = https://github.com/bmaitner/transformerpalettes
